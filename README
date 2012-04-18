@@ -1,0 +1,7 @@
+A template for making a facebook tab where you submit your email to enter a contest.
+
+demo:  http://dev.org.org/FBemail2enter/
+
+Change vars in index.php
+
+May need to change permissions on the 'emails.csv' file so its writeable.
